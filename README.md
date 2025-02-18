@@ -67,3 +67,9 @@ followed by
 <a id="frappecloud_installation"></a>
 
 Installing on [FrappeCloud](https://frappecloud.com/docs/introduction) can be achieved after setting up a Bench instance, and a site. The app can then be added using the _Add App_ button in the _App_ tab of the bench and referencing this repository by using the _Install from GitHub_ option if you are not able to search for the app.
+
+### Important Note
+
+This integration goes through an approved third party. Please contact them for installation details at: [etims@savannahinformatics.com](mailto:etims@savannahinformatics.com).
+
+For support, contact us at: [solutions@navari.co.ke](mailto:solutions@navari.co.ke) or visit [Navari](https://navari.co.ke/).

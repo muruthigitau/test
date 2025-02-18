@@ -13,3 +13,5 @@
 ![Customer Journey](images/slade-process.png)
 
 Once installed and configured, ERPNext communicates with eTims servers via background jobs executed by [Redis Queue](https://redis.com/glossary/redis-queue/).
+
+[<< Previous: Home](../README.md) | [Next: Setup Configuration >>](/docs/setup_configuration.md)

@@ -11,3 +11,5 @@
 ## Customer Doctype
 
 - Ensures customers are registered with eTims-compatible details.
+
+[<< Previous: Key DocTypes](./doctypes.md)

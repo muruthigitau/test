@@ -18,3 +18,5 @@
 ![Routes Reference](images/routes_reference.png)
 
 - Holds API endpoints & last request timestamps.
+
+[<< Previous: Key Features](./features.md) | [Next: Key DocTypes >>](./doctypes.md)
