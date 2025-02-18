@@ -22,15 +22,15 @@ For more details about eTims and Slade360:
 
 ## Key Sections
 
-- ### [Architectural Overview](docs/architecture.md)
+- #### [Architectural Overview](docs/architecture.md)
 
-- ### [Setup & Configuration](docs/setup_configuration.md)
+- #### [Setup & Configuration](docs/setup_configuration.md)
 
-- ### [Key Features](docs/features.md)
+- #### [Key Features](docs/features.md)
 
-- ### [Key DocTypes](docs/doctypes.md)
+- #### [Key DocTypes](docs/doctypes.md)
 
-- ### [Customisations](docs/customisations.md)
+- #### [Customisations](docs/customisations.md)
 
 For a more comprehensive guide and details on the integration, visit our [Complete Guide](https://github.com/muruthigitau/test/wiki).
 
