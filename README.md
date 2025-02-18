@@ -34,7 +34,7 @@ For more details about eTims and Slade360:
 
 ## For More Detailed Documentation
 
-For a more comprehensive guide and details on the integration, visit our [GitHub Wiki Documentation](https://github.com/muruthigitau/test/wiki).
+For a more comprehensive guide and details on the integration, visit our [Complete Guide](https://github.com/muruthigitau/test/wiki).
 
 ## How to Install
 
