@@ -1,10 +1,10 @@
 ## Sales Invoice Customisation
 
-<a id="invoice_submission"></a>
-
 Invoice Submission simplifies the process of submitting sales invoices, ensuring compliance. Invoices are submitted upon finalization, either individually, in bulk, or through a background job based on the configuration in the settings. Additionally, SCU Data, including QR Codes for Sales Invoices, is generated here.
 
 ### Customizations
+
+<a id="invoice_customozation"></a>
 
 ![Invoice Customizations Screenshot](../images/sales_invoice_details.png)
 
@@ -19,6 +19,7 @@ The **eTims Details** tab includes fields for additional details required to sub
 
 ### **Invoice Submission Process**
 
+<a id="invoice_submission"></a>
 ![Invoice Screenshot](../images/send_invoice.png)
 ![Invoice Screenshot](../images/bulk_submission.PNG)
 Invoices are submitted through different mechanisms based on configuration:
