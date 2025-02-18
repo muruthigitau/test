@@ -64,7 +64,7 @@ Suppliers and customers are also sent manually, in bulk, or automatically on upd
 ![Invoice Submission Screenshot](./images/sales_invoice_details.png)
 
 Invoice Submission simplifies the process of submitting sales and purchase invoices, ensuring compliance. Invoices are submitted upon finalization, either individually, in bulk, or through a background job based on the configuration in the settings. Credit notes are also handled in this process. Additionally, SCU Data, including QR Codes for Sales Invoices, is generated here.
-More detailed information on [Invoice Submission](./invoice_submission.md).
+More detailed information on [Invoice Submission](./features/invoice_submission.md).
 
 ### Stock Submission
 
@@ -72,7 +72,7 @@ More detailed information on [Invoice Submission](./invoice_submission.md).
 
 ![Stock Submission Screenshot](./images/stock_ledger.png)
 All operations affecting stock, such as Stock Entries, Sales Invoices, etc., are tracked using Stock Ledger Entries (SLE) and submitted to eTims. This process uses a background job, with frequency and other configurations set in the settings document, ensuring real-time inventory tracking.
-More detailed information on [Stock Submission](./stock_submission.md).
+More detailed information on [Stock Submission](./features/stock_submission.md).
 
 ### BOM Submission
 
@@ -80,7 +80,7 @@ More detailed information on [Stock Submission](./stock_submission.md).
 
 ![BOM Submission Screenshot](./images/bom.png)
 
-BOMs are submitted after they are submitted or through manual submission. More detailed information on [BOM Submission](./stock_submission.md).
+BOMs are submitted after they are submitted or through manual submission.
 
 ### Registered Purchases
 
